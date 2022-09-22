@@ -1,4 +1,5 @@
-class FibonacciExample1{  
+ Fibonacci
+{  
 
 public static void main(String args[])  
 
